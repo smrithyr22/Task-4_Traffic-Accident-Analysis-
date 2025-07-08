@@ -78,6 +78,13 @@ Intended to identify how environmental conditions affect accident causes.
 
 ---
 
+## 📊Tools and Technologies 
+- Python
+- Pandas
+- Mathplot
+- Seaborn
+- Colab
+
 ## 📈 Visualizations
 
 The project includes multiple plots using **Matplotlib** and **Seaborn**:
